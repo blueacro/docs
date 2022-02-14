@@ -12,5 +12,5 @@ https://usb-ids.gowdy.us/read/UD/726c
 |--------|-----|
 | ReefVolt Dual Doser | `3101` |
 | ReefVolt MiniCore | `3102` |
-
+| ReefVolt uPWM | `3103` |
 
